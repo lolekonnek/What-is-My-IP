@@ -1,9 +1,8 @@
 body, html {
-    width: auto;
+    width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2f/Hentai_-_yuuree-redraw.jpg');
 }
 
 #contents {
@@ -17,14 +16,15 @@ body, html {
     background-position: center;
 }
 
+
 center {
     font-size: 10cap;
     color: rgb(88, 16, 54);
 }
 
 button {
-    height: 6cap;
-    width: 20%;
+    height: 10cap;
+    width: 70%;
     font-size: 0.3cap;
     background-color: rgb(255, 20, 147);
     border-color: rgb(114, 0, 61);
@@ -34,9 +34,7 @@ button {
 button:hover {
     transition: 2s;
     background-color: rgb(163, 0, 87);;
-    width: 29%;
-    height: 5cap;
-    font-size: 0.2cap;
-
+    width: 67%;
+    height: 9cap;
+    font-size: 0.29cap;
 }
-
