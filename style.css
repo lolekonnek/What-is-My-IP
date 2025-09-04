@@ -18,14 +18,14 @@ body, html {
 
 
 center {
-    font-size: 10cap;
+    font-size: 10vh;
     color: rgb(88, 16, 54);
 }
 
 button {
-    height: 10cap;
+    height: 10vh;
     width: 70%;
-    font-size: 0.3cap;
+    font-size: 4vh;
     background-color: rgb(255, 20, 147);
     border-color: rgb(114, 0, 61);
     transition: 2s;
@@ -35,6 +35,6 @@ button:hover {
     transition: 2s;
     background-color: rgb(163, 0, 87);;
     width: 67%;
-    height: 9cap;
-    font-size: 0.29cap;
+    height: 9vh;
+    font-size: 3vh;
 }
