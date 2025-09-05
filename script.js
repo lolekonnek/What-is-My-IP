@@ -24,6 +24,8 @@ speechSynthesis.onvoiceschanged = loadVoices;
             console.error('error feching IP adress', error);
         }
     }
+
+    speechIP()
     button.addEventListener('click', () => {
       const msg = new SpeechSynthesisUtterance(ip);
 
